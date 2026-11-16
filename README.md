@@ -16,7 +16,8 @@ This is where I post my projects. Some are finished, some are still in progress,
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| **Sakruas Launcher** | A Roblox multi-account launcher with auto-rejoin, a live hardware monitor, tray support and Roblox version pinning. | Active |
+| **Sakura Launcher** | A Roblox multi-account launcher with auto-rejoin, a live hardware monitor, tray support, and Roblox version pinning. | Active |
+| **Sakura Onion (Windows)** | A friendly Tor client for Windows with bridges, system proxy/VPN modes, bandwidth/circuits views, leak checks, and tray support. | Active |
 | _More coming_ | New apps and older projects get added here as I post them. | |
 
 Each project has its own folder with its own README, which covers what it does and how to use it.
