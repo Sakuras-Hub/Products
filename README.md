@@ -26,7 +26,6 @@ Each project has its own folder with its own README, which covers what it does a
 
 1. Open the project's folder.
 2. Check the release page for download.
-3. Grab the latest build from the **Releases** page, if that project has one.
 
 ## Community and support
 
